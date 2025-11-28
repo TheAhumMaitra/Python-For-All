@@ -24,11 +24,11 @@ This book is designed for all level developers learn ore revise or view the Pyth
 
 ### The whole book
 
-<a href="https://py-for-all.vercel.app/">Python For All</a> © 2025 by <a href="https://example.com">Ahum Maitra</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<a href="https://py-for-all.vercel.app/">Python For All</a> © 2025 by <a href="https://github.com/TheAhumMaitra">Ahum Maitra</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ### Source code of this book (excluding book's content)
 
-[`MIT LICENSE`](https://github.com/TheAhumMaitra/Python-All-levels-book/License)
+[`GNU General Public License v3.0`](https://github.com/TheAhumMaitra/Python-For-All/blob/main/LICENSE)
 
 ## Inspirations
 ---
